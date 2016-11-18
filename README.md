@@ -1,6 +1,6 @@
 # Abacus
 
-Abacus is an alarm clock created using the Arduino playform. The primary feature of the Abacus is that when the alarm goes up a math problem displayed on the LCD is required to terminate it.
+Abacus is an alarm clock created using the Arduino platform. The primary feature of the Abacus is that when the alarm goes off a math problem displayed on the LCD is required to terminate it.
 
 Components and techniques used to develop the Abacus include:
 - Multiplexed 4 Digit 7-Segment Display
