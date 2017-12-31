@@ -12,8 +12,8 @@ Components and techniques used to develop the Abacus include:
 - 74HC595 Output Register
 - Atmega328p and ATTiny85 microcontroller programming
 
-The libraries were developed in C, but since the Arduino playform required C++ they were converted.
+The libraries were developed in C, but since the Arduino playform required C++, they were converted.
 
 The Atmega328p is prgrammed with the Abacus.ino file and the Attiny85 (which powers the alarm) is programmed with the AbacusAlarm.ino file.
 
-Additionally, the [Time Library] (http://playground.arduino.cc/Code/Time) would be required to compile the program.
+Additionally, the [Time Library](http://playground.arduino.cc/Code/Time) would be required to compile the program.
